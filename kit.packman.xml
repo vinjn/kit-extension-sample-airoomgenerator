@@ -1,0 +1,6 @@
+<project toolsVersion="5.6">
+  <dependency name="kit-sdk" linkPath="app/kit">
+    <package name="kit-sdk" version="105.0.2+release.109459.e3a297f7.tc.windows-x86_64.release" platforms="windows-x86_64" />
+    <package name="kit-sdk" version="105.0.2+release.109459.e3a297f7.tc.linux-x86_64.release" platforms="linux-x86_64" />
+  </dependency>
+</project>
